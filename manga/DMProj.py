@@ -1,5 +1,4 @@
 import pandas as pd
-import ast as ast
 import collections
 from mlxtend.frequent_patterns import apriori, association_rules
 from mlxtend.preprocessing import TransactionEncoder
